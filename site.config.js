@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '12e7a26842f646c2b2c7be8abf7cbcf8',
+  rootNotionPageId: '13f3b4f18b784319b8653c0accc679a0',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,8 +8,8 @@ module.exports = {
 
   // basic site info (required)
   name: '学习记录',
-  domain: 'https://www.notion.so/12e7a26842f646c2b2c7be8abf7cbcf8',
-  author: '黄百海',
+  domain: 'https://www.notion.so/13f3b4f18b784319b8653c0accc679a0',
+  author: 'HBH-CELL',
 
   // open graph metadata (optional)
   description: 'Example site description',
